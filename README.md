@@ -18,6 +18,7 @@ To run this project, you will need to have a local server environment or use an 
 1. Clone this repository to your local machine.
 2. Install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in Visual Studio Code.
 3. Open the project in VS Code and click on the "Go Live" button at the bottom right corner of the window.
+4. Your default browser should open with the project running at `http://localhost:5500`.
 
 ### Using a Local Server
 
@@ -59,4 +60,6 @@ Contributions are welcome! If you have ideas for improvements or bug fixes, plea
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+Please get in touch if you plan to use this project, I would love to know how it's being used!
+> Contact: [tomx.sh](https://tomx.sh/)
 
