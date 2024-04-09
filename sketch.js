@@ -27,7 +27,7 @@ function draw() {
     background(20);
 
     const noiseScale = 0.01;
-    const noiseSpeed = 0.001;
+    const noiseSpeed = 0.0007;
     const cursorRadius = 250;
     
     for (let y = margin; y < height - margin; y += vSpacing) {
